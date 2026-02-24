@@ -1,6 +1,9 @@
 # Multilabel Image Classification – Fashion Dataset
 dataset Link - https://drive.google.com/drive/u/0/folders/1ZAShdBc1dsDaYanVLQTASUOZbXbViSTU
+
+
 Google colab link - https://colab.research.google.com/drive/1TrS1GAZQMTCRCCjATQUD4OLXXFbOgxhD?usp=sharing
+
 Note - use dataset path from the google drive for ease and the fine tuning part may take a long time. 
 
 ## Problem
